@@ -18,4 +18,7 @@ Player vs player game, each player can choose the color of his pieces and enter 
 
 
 ## Code features
-The game was implemented in java into two seperated modules(Model, and View) communicating to each other. All functionalities implemented using Java API without using of external libraries. there're no specific requirements to launch the game except JDK.
+The game was implemented in java into two seperated modules(Model, and View) communicating to each other. The model can be reusable with other views with no need to change in model. All functionalities implemented using Java API without using of external libraries. 
+
+## Launch
+There're no specific requirements to launch the game except JDK.
