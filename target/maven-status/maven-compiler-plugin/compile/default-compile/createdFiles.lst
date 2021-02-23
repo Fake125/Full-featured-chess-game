@@ -1,0 +1,17 @@
+com/mycompany/chessgame/full_chess/King.class
+com/mycompany/chessgame/full_chess/PieceInfo.class
+com/mycompany/chessgame/My/GameBeginner.class
+com/mycompany/chessgame/full_chess/ChessGameView.class
+com/mycompany/chessgame/full_chess/Position.class
+com/mycompany/chessgame/full_chess/Bishop.class
+com/mycompany/chessgame/My/SwingView.class
+com/mycompany/chessgame/full_chess/ChessGame.class
+com/mycompany/chessgame/full_chess/Pawn.class
+com/mycompany/chessgame/full_chess/Rook.class
+com/mycompany/chessgame/full_chess/Player.class
+com/mycompany/chessgame/My/GameBeginner$1.class
+com/mycompany/chessgame/full_chess/Queen.class
+com/mycompany/chessgame/full_chess/MovementBehaviour.class
+com/mycompany/chessgame/full_chess/Knight.class
+com/mycompany/chessgame/full_chess/Piece.class
+com/mycompany/chessgame/My/GameBeginner$2.class
